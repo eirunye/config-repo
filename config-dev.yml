@@ -1,7 +1,6 @@
 server:
   port: 8105
 
-
 eureka:
   client:
     serviceUrl:
@@ -9,5 +8,5 @@ eureka:
 spring:
   application:
     name: web-service
- config:111   
+ config: 111   
     
